@@ -1,0 +1,15 @@
+body {
+  top: 0 !important;
+}
+#gmocommonheader {
+  display: none !important;
+}
+#gmoheader {
+  height: 0 !important;
+}
+#header {
+  top: 0 !important;
+}
+body.guest {
+  padding-top: 0 !important !important;
+}
