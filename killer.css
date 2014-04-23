@@ -10,6 +10,7 @@ body {
 #header {
   top: 0 !important;
 }
-body.guest {
-  padding-top: 0 !important !important;
+
+html body.guest {
+  padding-top: 0 !important;
 }
