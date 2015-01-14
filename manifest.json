@@ -147,7 +147,10 @@
         "http://www.kabegami.com/*",
         "http://www.koukoku.jp/*",
         "http://www.10saku.com/*",
-        "http://www.makeshop.jp/main/plan/kaiten/"
+        "http://www.makeshop.jp/main/plan/kaiten/",
+        "http://pepabo.com/",
+        "https://pepabo.com/",
+        "https://wimax.pepabo.com/"
       ],
       "css": [ "killer.css" ]
     }
