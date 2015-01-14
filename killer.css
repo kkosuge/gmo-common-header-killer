@@ -1,14 +1,13 @@
-html body {
+html,
+body,
+#gmoheader,
+#header,
+.nav-header {
   top: 0 !important;
 }
+
 #gmocommonheader {
   display: none !important;
-}
-#gmoheader {
-  height: 0 !important;
-}
-#header {
-  top: 0 !important;
 }
 
 html body.guest {
