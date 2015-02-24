@@ -1,7 +1,7 @@
 {
   "name": "GMO共通ヘッダー非表示",
   "description": "GMOインターネットグループのサイトに表示される共通ヘッダーを消します。",
-  "version": "1.8",
+  "version": "1.9",
   "manifest_version": 2,
   "icons": { "16": "icon16.png",
            "48": "icon48.png",
