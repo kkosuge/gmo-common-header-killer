@@ -148,9 +148,11 @@
         "http://www.koukoku.jp/*",
         "http://www.10saku.com/*",
         "http://www.makeshop.jp/main/plan/kaiten/",
-        "http://pepabo.com/",
-        "https://pepabo.com/",
-        "https://wimax.pepabo.com/"
+        "http://pepabo.com/*",
+        "https://pepabo.com/*",
+        "https://wimax.pepabo.com/*",
+        "http://gesoten.com/*",
+        "https://gesoten.com/*"
       ],
       "css": [ "killer.css" ]
     }

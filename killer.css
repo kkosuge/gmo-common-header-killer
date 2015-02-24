@@ -13,3 +13,7 @@ body,
 html body.guest {
   padding-top: 0 !important;
 }
+
+html body {
+  top: 0 !important;
+}
