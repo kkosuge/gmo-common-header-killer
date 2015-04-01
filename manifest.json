@@ -153,7 +153,9 @@
         "https://wimax.pepabo.com/*",
         "http://gesoten.com/*",
         "https://gesoten.com/*",
-        "https://www.gmo-click.com/*"
+        "https://www.gmo-click.com/*",
+        "https://www.gmo.jp/*",
+        "http://ir.gmocloud.com/*"
       ],
       "css": [ "killer.css" ]
     }
