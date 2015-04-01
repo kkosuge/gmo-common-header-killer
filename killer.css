@@ -17,3 +17,8 @@ html body.guest {
 html body {
   top: 0 !important;
 }
+
+/* http://booklog.jp/ */
+#mode-index {
+  padding-top: 0 !important;
+}
