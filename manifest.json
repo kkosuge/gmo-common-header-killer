@@ -155,7 +155,9 @@
         "https://gesoten.com/*",
         "https://www.gmo-click.com/*",
         "https://www.gmo.jp/*",
-        "http://ir.gmocloud.com/*"
+        "http://ir.gmocloud.com/*",
+        "http://z.com/*",
+        "https://z.com/*"
       ],
       "css": [ "killer.css" ]
     }

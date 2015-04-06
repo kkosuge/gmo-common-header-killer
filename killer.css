@@ -18,7 +18,12 @@ html body {
   top: 0 !important;
 }
 
-/* http://booklog.jp/ */
+/* booklog.jp */
 #mode-index {
   padding-top: 0 !important;
+}
+
+/* z.com */
+.language {
+  top: 10px !important;
 }
