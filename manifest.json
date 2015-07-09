@@ -157,7 +157,9 @@
         "https://www.gmo.jp/*",
         "http://ir.gmocloud.com/*",
         "http://z.com/*",
-        "https://z.com/*"
+        "https://z.com/*",
+        "http://www.fezero.jp/*",
+        "https://www.fezero.jp/*"
       ],
       "css": [ "killer.css" ]
     }
