@@ -159,7 +159,9 @@
         "http://z.com/*",
         "https://z.com/*",
         "http://www.fezero.jp/*",
-        "https://www.fezero.jp/*"
+        "https://www.fezero.jp/*",
+        "http://biz.conoha.jp/*",
+        "https://biz.conoha.jp/*"
       ],
       "css": [ "killer.css" ]
     }
